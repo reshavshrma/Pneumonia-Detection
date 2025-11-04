@@ -125,7 +125,7 @@ st.markdown("""
         text-align: center;
         margin-bottom: 2rem;
         animation: fadeInDown 0.8s ease-out;
-        margin-top: 1.5rem; /*UPPER MARGIN*/
+        margin-top: 1.5rem; /*UPPER*/
     }
     
     .main-title {
@@ -303,7 +303,7 @@ st.markdown("""
     /* Footer */
     .footer {
         text-align: center;
-        color: white;
+        color: black;
         padding: 2rem;
         margin-top: 3rem;
         font-size: 0.9rem;
